@@ -31,7 +31,7 @@ html {
 
   /* fonts */
   font-size: 62.5%;
-  font-size: 'Open Sans', sans-serif;
+  --text-font: 'Open Sans', sans-serif;
   --title-font: 'Poppins', sans-serif;
 }
 
